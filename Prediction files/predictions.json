@@ -1,0 +1,10 @@
+[
+  {
+    "sample_id": "solar1",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "has_solar": true,
+    "buffer_radius_sqft": 1200,
+    "pv_area_sqm_est": 32.4
+  }
+]
