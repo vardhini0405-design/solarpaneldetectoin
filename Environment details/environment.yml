@@ -1,0 +1,16 @@
+name: solar-detection
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - ultralytics
+      - torch
+      - numpy
+      - pandas
+      - shapely
+      - pillow
+      - requests
+      - matplotlib
+      - openpyxl
